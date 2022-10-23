@@ -11,5 +11,14 @@ int main()
     int a = 0;
     cin >> a;
     cout << a;
+    int a = 0;
+    cin >> a;
+    cout << a;
+    int a = 0;
+    cin >> a;
+    cout << a;
+    int a = 0;
+    cin >> a;
+    cout << a;
 
 }
